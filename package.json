@@ -1,0 +1,17 @@
+{
+  "name": "js_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "abc.js",
+  "dependencies": {
+    "dialogs": "^1.1.19",
+    "smalltalk": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
