@@ -11,6 +11,7 @@
                                                                                             
 
 var userInput = prompt("Enter a String:");
+
 function ABCheck(str) {
 var pt = /a...b/gi;
 var rtck = pt.test(str);
@@ -18,4 +19,3 @@ return rtck;
        
 }
 console.log(ABCheck(userInput));
-
